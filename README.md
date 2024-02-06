@@ -1,15 +1,15 @@
 ![MasterHead](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRobWllrWdma2U.jpg)
 
-<h1 align="center">Hi 👋, I'm Snigdha</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Snigdha Kathula</h1>
+<h3 align="center">An Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on **Problem Solving**
+- 🔭 I’m currently working on **BACKEND-PROJECTS**
 
-- 🌱 I’m currently learning **java backend specialization**
+- 🌱 I’m currently learning **ON HOW TO BUILD PROJECTS USING SPRING-BOOT**
 
-- 👯 I’m looking to collaborate on **FULSTACK WEB DEVELOPMENT**
+- 👯 I’m looking to collaborate on **BACKEND DEVELOPMENT**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **JAVA, SQL, DSA, OOP, CUNCURRENCY, DESIGN-PATTERNS, MACHINE-CODING, SPRING-BOOT, GIT AND PROJECTS**
 
 - 📫 How to reach me **kathulasnigdha2k@gmail.com**
 <img align="right" alt="Coding" width="400" src="https://consultaninja.com/wp-content/uploads/CodeNinja-1.png">
