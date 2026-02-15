@@ -32,9 +32,9 @@
 
 ### 📂 Featured Projects
 
-- **[LLD & Machine Coding](https://github.com/Snigdha-Kathula/LLD-Machine-Coding)** – A comprehensive collection of Low-Level Design implementations focusing on SOLID principles and design patterns.
-- **[Backend Services](https://github.com/Snigdha-Kathula)** – Developing robust APIs using Spring Boot with a focus on clean code and scalability.
-- **[Automation Testing](https://github.com/Snigdha-Kathula)** – Experience in Selenium for automated web testing and quality assurance.
+- **[LLD & Machine Coding](https://github.com/Snigdha-Kathula/TicTacToe-MachineCoding)** – A comprehensive collection of Low-Level Design implementations focusing on SOLID principles and design patterns.
+- **[Backend Services](https://github.com/Snigdha-Kathula/Expense-Tracking-Application)** – Developing robust APIs using Spring Boot with a focus on clean code and scalability.
+
 
 ---
 
