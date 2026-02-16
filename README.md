@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRobWllrWdma2U.jpg" width="100%" />
+  <img src="https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRobWllrWdma2U.jpg" width="50%" alt="Header" />
 
   # 👋 Hi, I'm Snigdha Kathula
-  ### Backend Developer | Java & Spring Boot Enthusiast
+  ### Backend Software Developer | Java, Python & AI Specialist
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snigdha-reddy-kathula-/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kathulasnigdha2k@gmail.com)
@@ -10,11 +10,13 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 **Current Focus:** Building scalable **Spring Boot** microservices and mastering Backend Architecture.
-- 🌱 **Learning Lab:** Deep diving into **Concurrency**, Cloud-native patterns, and advanced **System Design**.
-- 👯 **Collaboration:** Open to contributing to Open Source backend projects or Low-Level Design (LLD) discussions.
-- 💬 **Ask me about:** Java, SQL, DSA, OOP, Machine Coding, Design Patterns, and Git.
+### 💼 Professional Experience: InCred Financial Services
+**Backend Software Developer** | *Fintech & AI Solutions*
+
+* **🚀 Aadhaar Redaction & Cost Optimization:** Engineered an internal redaction algorithm using **Amazon Textract & Google OCR**. Successfully replaced third-party services (Karza), achieving **95% accuracy** and a **90% reduction in operational costs**.
+* **🤖 Document Classification & RAG:** Developed a classification system transitioning from custom-trained models to a **RAG (Retrieval-Augmented Generation)** architecture using **Gemini (Google AI)** for high-precision document extraction.
+* **🏗️ System Architecture & E-Signing:** Designed the backend architecture for a high-concurrency **E-Signing feature** and managed complex workflow APIs.
+* **⚙️ Polyglot API Development:** Built and integrated diverse REST APIs using the **Factory Method Design Pattern** across **Spring Boot (Java)**, **FastAPI/Flask (Python)**, and **Express/Node.js (TypeScript)**.
 
 ---
 
@@ -22,19 +24,19 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Java (Core & Advanced), SQL, HTML/CSS, JavaScript |
-| **Frameworks** | Spring Boot, Spring Data JPA, Hibernate, React.js |
-| **Database/Cloud** | PostgreSQL, MongoDB, Firebase |
-| **Tools** | Git, Postman, Linux, Selenium, IntelliJ IDEA |
-| **Core Concepts** | Data Structures & Algorithms, Concurrency, Design Patterns (LLD), Machine Coding |
+| **Backend** | **Java (Spring Boot)**, **Python (FastAPI, Flask)**, Node.js, Express |
+| **AI & Data** | **RAG**, Gemini API, Amazon Textract, Google OCR, OpenAI |
+| **Databases** | DynamoDB, MySQL |
+| **DevOps/Tools** | Git, Linux, Postman, AWS Ecosystem |
+| **Patterns** | Factory Method, Singleton, LLD (Low-Level Design), SOLID |
 
 ---
 
 ### 📂 Featured Projects
 
-- **[LLD & Machine Coding](https://github.com/Snigdha-Kathula/TicTacToe-MachineCoding)** – A comprehensive collection of Low-Level Design implementations focusing on SOLID principles and design patterns.
-- **[Backend Services](https://github.com/Snigdha-Kathula/Expense-Tracking-Application)** – Developing robust APIs using Spring Boot with a focus on clean code and scalability.
-
+- **[LLD & Machine Coding](https://github.com/Snigdha-Kathula/LLD-Machine-Coding)** – A collection of production-grade design pattern implementations and SOLID principle exercises.
+- **[Aadhaar Masking Engine](https://github.com/Snigdha-Kathula)** – (Internal) Optimized PII data masking using OCR and custom heuristics.
+- **[RAG-Based Classifier](https://github.com/Snigdha-Kathula)** – Leveraging LLMs for intelligent document sorting and data validation.
 
 ---
 
@@ -52,6 +54,5 @@
 ---
 
 <div align="center">
-  <img src="https://consultaninja.com/wp-content/uploads/CodeNinja-1.png" width="180">
-  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+  <p><i>"The code you write today is the foundation for the scale of tomorrow."</i></p>
 </div>
