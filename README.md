@@ -20,13 +20,24 @@
 
 ---
 
+### 🧠 AI & LLM Core Concepts
+*I specialize in building production-ready AI workflows using modern frameworks:*
+
+* **Retrieval-Augmented Generation (RAG):** The process of optimizing the output of a Large Language Model (LLM) by referencing an authoritative knowledge base outside of its training data before generating a response.
+* **LangChain:** A powerful framework designed to simplify the creation of LLM applications by "chaining" different components (prompt templates, models, and memory) together.
+* **Vector Embeddings:** Transforming unstructured text into numerical vectors to enable semantic search and high-speed retrieval in RAG pipelines.
+
+
+
+---
+
 ### 🛠 Tech Stack & Tools
 
 | Category | Skills |
 | :--- | :--- |
 | **Backend** | **Java (Spring Boot)**, **Python (FastAPI, Flask)**, Node.js, Express |
-| **AI & Data** | **RAG**, Gemini API, Amazon Textract, Google OCR, OpenAI |
-| **Databases** | DynamoDB, MySQL |
+| **AI & Data** | **LangChain**, **RAG**, Gemini API, Amazon Textract, Google OCR, OpenAI |
+| **Databases** | DynamoDB, MySQL, Vector Databases (Pinecone/Chroma) |
 | **DevOps/Tools** | Git, Linux, Postman, AWS Ecosystem |
 | **Patterns** | Factory Method, Singleton, LLD (Low-Level Design), SOLID |
 
@@ -36,7 +47,7 @@
 
 - **[LLD & Machine Coding](https://github.com/Snigdha-Kathula/LLD-Machine-Coding)** – A collection of production-grade design pattern implementations and SOLID principle exercises.
 - **[Aadhaar Masking Engine](https://github.com/Snigdha-Kathula)** – (Internal) Optimized PII data masking using OCR and custom heuristics.
-- **[RAG-Based Classifier](https://github.com/Snigdha-Kathula)** – Leveraging LLMs for intelligent document sorting and data validation.
+- **[RAG-Based Classifier](https://github.com/Snigdha-Kathula)** – Leveraging LangChain and Google Gemini for intelligent document sorting and data validation.
 
 ---
 
