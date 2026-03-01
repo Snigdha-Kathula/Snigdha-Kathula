@@ -11,7 +11,7 @@
 ---
 
 ### 💼 Professional Experience : InCred Financial Services
-**Backend Software Developer** | *Fintech & AI Solutions*
+**Backend Software Developer** | * Fintech & AI Solutions *
 
 * **🚀 Aadhaar Redaction & Cost Optimization :** Engineered an internal redaction algorithm using **Amazon Textract & Google OCR**. Successfully replaced third-party services (Karza), achieving **95% accuracy** and a **90% reduction in operational costs**.
 * **🤖 Document Classification & RAG :** Developed a classification system transitioning from custom-trained models to a **RAG (Retrieval-Augmented Generation)** architecture using **Gemini (Google AI)** for high-precision document extraction.
