@@ -13,10 +13,10 @@
 ### 💼 Professional Experience : InCred Financial Services
 **Backend Software Developer** | *Fintech & AI Solutions*
 
-* **🚀 Aadhaar Redaction & Cost Optimization :** Engineered an internal redaction algorithm using **Amazon Textract & Google OCR**. Successfully replaced third-party services (Karza), achieving **95% accuracy** and a **90% reduction in operational costs**.
-* **🤖 Document Classification & RAG :** Developed a classification system transitioning from custom-trained models to a **RAG (Retrieval-Augmented Generation)** architecture using **Gemini (Google AI)** for high-precision document extraction.
-* **🏗️ System Architecture & E-Signing :** Designed the backend architecture for a high-concurrency **E-Signing feature** and managed complex workflow APIs.
-* **⚙️ Polyglot API Development:** Built and integrated diverse REST APIs using the **Factory Method Design Pattern** across **Spring Boot (Java)**, **FastAPI/Flask (Python)**, and **Express/Node.js (TypeScript)**.
+* ** 🚀 Aadhaar Redaction & Cost Optimization :** Engineered an internal redaction algorithm using **Amazon Textract & Google OCR**. Successfully replaced third-party services (Karza), achieving **95% accuracy** and a **90% reduction in operational costs**.
+* ** 🤖 Document Classification & RAG :** Developed a classification system transitioning from custom-trained models to a **RAG (Retrieval-Augmented Generation)** architecture using **Gemini (Google AI)** for high-precision document extraction.
+* ** 🏗️ System Architecture & E-Signing :** Designed the backend architecture for a high-concurrency **E-Signing feature** and managed complex workflow APIs.
+* ** ⚙️ Polyglot API Development:** Built and integrated diverse REST APIs using the **Factory Method Design Pattern** across **Spring Boot (Java)**, **FastAPI/Flask (Python)**, and **Express/Node.js (TypeScript)**.
 
 ---
 
