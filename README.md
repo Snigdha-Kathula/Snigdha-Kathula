@@ -2,7 +2,7 @@
   <img src="https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRobWllrWdma2U.jpg" width="50%" alt="Header" />
 
   # 👋 Hi, I'm Snigdha Kathula
-  ### Backend Software Developer | Java, Python & AI Specialist
+  ### Backend Software Developer | Java, Python & AI Developer
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snigdha-reddy-kathula-/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kathulasnigdha2k@gmail.com)
