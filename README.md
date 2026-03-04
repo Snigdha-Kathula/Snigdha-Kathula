@@ -23,9 +23,9 @@
 ### 🧠 AI & LLM Core Concepts
 *I specialize in building production-ready AI workflows using modern frameworks:*
 
-* **Retrieval-Augmented Generation (RAG):** The process of optimizing the output of a Large Language Model (LLM) by referencing an authoritative knowledge base outside of its training data before generating a response.
-* **LangChain:** A powerful framework designed to simplify the creation of LLM applications by "chaining" different components (prompt templates, models, and memory) together.
-* **Vector Embeddings:** Transforming unstructured text into numerical vectors to enable semantic search and high-speed retrieval in RAG pipelines.
+* ** Retrieval-Augmented Generation (RAG): ** The process of optimizing the output of a Large Language Model (LLM) by referencing an authoritative knowledge base outside of its training data before generating a response.
+* ** LangChain: ** A powerful framework designed to simplify the creation of LLM applications by "chaining" different components (prompt templates, models, and memory) together.
+* ** Vector Embeddings: ** Transforming unstructured text into numerical vectors to enable semantic search and high-speed retrieval in RAG pipelines.
 
 
 
